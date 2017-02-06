@@ -31,6 +31,9 @@
     "@ionic/app-scripts": "1.0.0",
     "typescript": "2.0.9"
   },
+  "scripts": {
+    "start": "node your-script.js"
+  },
   "cordovaPlugins": [
     "cordova-plugin-whitelist",
     "cordova-plugin-console",
